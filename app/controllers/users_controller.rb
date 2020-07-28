@@ -1,4 +1,4 @@
-class Users < ApplicationController
+class UsersController < ApplicationController
 
   get '/users/home' do
 
